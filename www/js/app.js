@@ -54,22 +54,22 @@ angular.module('sml', ['ionic', 'sml.controllers'])
       views: {
         'menuContent': {
           templateUrl: 'templates/rooms.html',
-          controller: 'RoomsCtrl'
+          controller: 'ExampleController'
         }
       }
     })
-    .state('app.singleWindow', {
-      url: '/rooms/:windowId',
+    .state('app.singleRoom', {
+      url: '/rooms/:roomId',
       views: {
         'menuContent': {
-          templateUrl: 'templates/window.html',
+          templateUrl: 'templates/room.html',
           controller: 'ExampleController'
         }
       }
     })
 
   .state('app.single', {
-    url: '/rooms/:roomId',
+    url: '/:windowId',
     views: {
       'menuContent': {
         templateUrl: 'templates/window.html',

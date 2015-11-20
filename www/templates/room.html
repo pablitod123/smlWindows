@@ -1,6 +1,9 @@
-<ion-view view-title="Browse">
-  <ion-content ng-controller="ExampleController" class="black-bg">
-  	<div class="row" ng-repeat="image in images" ng-if="$index % 2 === 0">
+<ion-view>
+  <ion-content>
+  		<div>
+    		<p>{{room.title}}</p>
+		</div>
+<!--   	<div class="row" ng-repeat="image in images" ng-if="$index % 2 === 0">
 	     <div class ="col col-50" ng-if="$index < images.length">
 	     	<a href="#/app/{{image.id}}">
 	            <img ng-src="{{image.src}}" width="100%" />
@@ -11,6 +14,6 @@
 	            <img ng-src="{{images[$index + 1].src}}" width="100%" />
 	        </a>
 	     </div>
-    </div>
+    </div> -->
   </ion-content>
 </ion-view>

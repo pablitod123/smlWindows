@@ -1,8 +1,8 @@
 <ion-view view-title="Rooms">
-  <ion-content>
+  <ion-content ng-controller="ExampleController">
     <ion-list>
       <ion-item ng-repeat="room in rooms" href="#/app/rooms/{{room.id}}">
-        {{room.title}}
+        {{room.title}} {{room.oldRoom}}
       </ion-item>
     </ion-list>
   </ion-content>

@@ -1,1 +1,12 @@
 /* Empty. Add your own CSS if you like */
+.black-bg {
+	background-color: black;
+}
+
+.desc {
+	font-size:16px;
+}
+
+.center {
+	text-align: center;
+}
