@@ -235,28 +235,532 @@ angular.module('sml.controllers', [])
 'book': 'http://www.gutenberg.org/files/1254/1254-h/1254-h.htm'
 },
 {
-'src' : 'img/213/reynard.jpg',
-'title': 'Reynard the Fox',
+'src' : 'img/213/knight_of_the_swan.jpg',
+'title': 'Knight of the Swan',
 'id': 21,
 'room': '213',
-'desc': "",
+'desc': "In the medieval story of the Swan Knight, a mysterious hero in a boat pulled by a swan offers to fight to save a damsel's kingdom provided that she must never ask his name. After the Swan Knight and the girl marry, she forgets her promise and asks him his name, and he departs immediately. While this particular scene is taken from the original French version of the tale, entitled \"Chevalier au Cygne\", a later German version \"Loherangrin\" would be the inspiration for an opera by Richard Wagner, \"Logengrin.\"",
+'links': 'http://www.britannica.com/topic/Lohengrin-German-legendary-figure',
+'book': 'https://en.wikisource.org/wiki/Curious_Myths_of_the_Middle_Ages/The_Knight_of_the_Swan'
+},
+{
+'src' : 'img/213/tristan.jpg',
+'title': 'Tristan and Iseult',
+'id': 22,
+'room': '213',
+'desc': "Tristan and Iseult can be thought of as a kind of medieval-Celtic \"Romeo and Juliet\"; a young man, Tristan, journeys to Ireland to ask if the princess Iseult will marry his uncle King Mark of Cornwall. On the way, Tristan drinks a love potion intended for Iseult and King Mark, and the young man and the princess fall deeply in love. King Mark, in his anger, attempts to trap the lovers into being convicted of crimes; he succeeds, although Tristan and Iseult escape to a forest. Mark, however, finds them, and Tristan decides to hand Iseult over to the king and leave the country. In Brittany, he marries another girl named Iseult, whom he does not love. Later, upon being poisoned in battle, Tristan calls for the Iseult he loves to heal him - if she agrees to come to his aid, her ship will have a white sail; if not, it will be black. Tristan's wife Iseult, who is jealous of her husband's true love, tells the dying man that the ship has a black sail. Princess Iseult, upon arrival, sees that she has arrived too late to save her true love, and she dies next to him.",
+'links': 'http://www.britannica.com/biography/Tristan-and-Isolde',
+'book': 'http://www.gutenberg.org/files/14244/14244-h/14244-h.htm'
+},
+{
+'src' : 'img/213/thor.jpg',
+'title': 'Thor',
+'id': 23,
+'room': '213',
+'desc': "This particular story about Thor, the Norse thunder god, comes from the \"Poetic Edda\", a Germanic manuscript from the 13th century. This window depicts a scene from Thor's adventures, Chapter XIV, when the giant Hymer (left) and Thor (with his hammer raised) fish for the serpent Jormungand. Just as Thor is about to strike Jormungand, a scared Hymer cuts the fishing line, allowing the serpent to escape.",
+'links': 'http://www.britannica.com/topic/Edda http://norse-mythology.org/gods-and-creatures/giants/jormungand/',
+'book': 'http://www.gutenberg.org/files/18947/18947-h/18947-h.htm'
+},
+{
+'src' : 'img/213/russian_folk_story.jpg',
+'title': 'Russian Folk Story',
+'id': 24,
+'room': '213',
+'desc': "CANNOT IDENTIFY WITHOUT ORIGINAL SOURCE",
 'links': '',
 'book': ''
 },
 {
+'src' : 'img/213/reynard.jpg',
+'title': 'Reynard the Fox',
+'id': 25,
+'room': '213',
+'desc': "Reynard is well-established character in European literary traditon; the stereotype of the fox as a sly and cunning animal comes partially from tales about Reynard. While Reynard has his beginnings in the medieval bestiaries of the 10th and 11th centuries, the most noteworthy development of the character comes from the 1174 French illuminated manuscripts with chapters (known then as \"branches\") of the Roman de Renart stories. This window depicts perhaps the most famous tale surrounding Reynard, the Nun's Priest Tale from Geoffrey Chaucer's Canterbury Tales. Here, a disguised Reynard convinces the vain rooster Chanticleer to sing - giving the fox the opportunity to strike.",
+'links': 'http://www.britannica.com/topic/Reynard-the-Fox-literary-character',
+'book': 'http://english.fsu.edu/canterbury/nun.html'
+},
+{
 'src' : 'img/213/st_brendan.jpg',
 'title': 'Voyage of St. Brendan',
-'id': 22,
+'id': 26,
 'room': '213',
-'desc': "",
-'links': '',
+'desc': "The first manuscripts of The Voyage of St. Brendan appeared around the year 900. The overtly Christian legend recounts the maritime travels of St. Brendan, one of Ireland's most venerated saints, as he journeys to an island believed to be Paridise, \"The Promised Land of the Saints\", after encountering a variety of sea monsters and fantastic islands. The epic became well-known across Europe, and maps with St. Brendan's Isle (supposedly located near the Canary Islands) were used during Christopher Columbus' time.",
+'links': 'http://www.britannica.com/biography/Saint-Brendan http://www.newadvent.org/cathen/02758c.htm',
 'book': ''
 },
 {
 'src' : 'img/213/beowulf.jpg',
 'title': 'Beowulf',
-'id': 23,
+'id': 27,
 'room': '213',
+'desc': "Beowulf is considered the greatest literary achievement in Old English literature. Likely written between 700 and 750, the poem recounts the adventures of a prince named Beowulf. When Beowulf sails to the kingdom of King Hrothgar, he finds the king stricken with fear over the nightly visits of the monster Grendel, who murders many of the kingdom's warriors. Beowulf vows to kill Grendel, which he does later that night; however, Grendel's mother seeks revenge for her son's death, and kills several warriors as well. Beowulf finds Grendel's mother and kills her as well, winning the praise and affection of King Hrothgar. Beowulf returns home and becomes king, ruling over the Geats for many years. When a dragon begins to destroy the kingdom, however, an aged Beowulf becomes mortally wounded while killing the monster.",
+'links': 'http://www.britannica.com/topic/Beowulf',
+'book': 'http://www.gutenberg.org/files/16328/16328-h/16328-h.htm'
+},
+{
+'src' : 'img/213/charlemagne.jpg',
+'title': 'Charlemagne',
+'id': 28,
+'room': '213',
+'desc': "Charlemagne, King of the Franks, also known as Charles the Great or Carolus Magnus, ruled most of Western Europe from 774 to 814 - it was the first time Western Europe had been united since the fall of the Roman empire. This window shows Charlemagne being crowned Holy Roman Emperor by Pope Leo III in St. Peter's Basilica on Christmas Day of 800, demonstrating Charlemagne's commitment to protect Christianity (and the Pope in Rome, who was facing danger from a Germanic group called the Lombards). Charlemagne is also largely responsible for the spread of literacy and manuscript creation throughout Europe in what is now known as the Carolingian Renaissance.",
+'links': 'http://www.britannica.com/biography/Charlemagne https://www.khanacademy.org/humanities/history/ancient-medieval/medieval/v/charlemagne-an-introduction',
+'book': ''
+},
+{
+'src' : 'img/213A/_.jpg',
+'title': 'Humanae 1',
+'id': 29,
+'room': '213A',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/213A/_.jpg',
+'title': 'Humanae 2',
+'id': 30,
+'room': '213A',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/213A/_.jpg',
+'title': 'Humanae 3',
+'id': 31,
+'room': '213A',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/213A/_.jpg',
+'title': 'Humanae 4',
+'id': 32,
+'room': '213A',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/213A/_.jpg',
+'title': 'Humanae 5',
+'id': 33,
+'room': '213A',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/213A/_.jpg',
+'title': 'Humanae 6',
+'id': 34,
+'room': '213A',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/213A/_.jpg',
+'title': 'Humanae 7',
+'id': 35,
+'room': '213A',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/213A/_.jpg',
+'title': 'Humanae 8',
+'id': 36,
+'room': '214',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/214/king_lear.jpg',
+'title': 'Shakespeare - King Lear',
+'id': 37,
+'room': '214',
+'desc': "At this beginning of this tragedy, the vain King Lear requires his three daughters to declare their love for him in order to receive their inheritance of the kingom. The sly Goneril and Regan, secretly plotting to remove their father from power, make elegant speeches, while the honest Cordelia refuses to pronounce such a false statement of love. Cordelia is banished, and shortly afterward Regan and Goneril retract their promised support for King Lear. In this scene, Regan stands beside her husband, the Duke of Cornwall, refuses to give shelter to King Lear (kneeling) and his soldiers.",
+'links': 'http://www.britannica.com/topic/King-Lear',
+'book': 'http://www.gutenberg.org/cache/epub/1128/pg1128-images.html'
+},
+{
+'src' : 'img/214/lady_macbeth.jpg',
+'title': 'Shakespeare - Lady MacBeth',
+'id': 38,
+'room': '214',
+'desc': "Lady MacBeth, one of the central characters in Shakespeare's tragedy MacBeth (1607), goes mad with guilt after driving her husband - a general named Macbeth - to kill King Duncan of Scotland and MacBeth's friend, Banquo. After her famous sleepwalking scene in Act V, during which she recounts the murders of various characters in the play, Lady MacBeth commits suicide offstage.",
+'links': 'http://www.britannica.com/topic/Macbeth-by-Shakespeare',
+'book': 'http://www.gutenberg.org/cache/epub/2264/pg2264-images.html'
+},
+{
+'src' : 'img/214/hamlet.jpg',
+'title': 'Shakespeare - Hamlet',
+'id': 39,
+'room': '214',
+'desc': "Shakespeare's tragedy Hamlet tells the tale of Prince Hamlet as he seeks to avenge his father's death at the hands of his uncle Claudius. In this scene, Hamlet and his friend Horatio visit the gravediggers, who are clearing out old graves to make room for the recently-deceased Ophelia (who goes mad over her father Polonius' death). One of the gravediggers gives Hamlet the skull of the jester Yorick, whom Hamlet remembers from his youth; the resulting speech is a famous and poignant reflection on the equality and inevitability of death for all people.",
+'links': 'http://www.britannica.com/topic/Hamlet-by-Shakespeare',
+'book': 'http://www.gutenberg.org/cache/epub/1524/pg1524-images.html'
+},
+{
+'src' : 'img/214/merchant_of_venice.jpg',
+'title': 'Shakespeare - The Merchant of Venice',
+'id': 40,
+'room': '214',
+'desc': "In this comedy, the protagonist Bassanio hopes to win the hand of the fair Portia, whose father mandates in his will that his daughter's suitors must play a guessing game in order to marry her; the suitor must choose between three chests (one of gold, one of silver, and one of lead), and select the one which contains Portia's Portait. In this scene, Bassanio is about to choose the correct chest - the leaden one.",
+'links': 'http://www.britannica.com/topic/The-Merchant-of-Venice',
+'book': 'http://www.gutenberg.org/cache/epub/1515/pg1515-images.html'
+},
+{
+'src' : 'img/214/helena.jpg',
+'title': 'Midsummer Night\'s Dream',
+'id': 41,
+'room': '214',
+'desc': "Helena is a primary character in one of Shakespeare's most popular comedies, \"A Midsummer Night's Dream.\" Helena truly loves her fiance Demetrius, but finds herself rejected as Demetrius consistently pursues Hermia. Hermia, in turn, is in love with ____.",
+'links': 'http://www.britannica.com/topic/A-Midsummer-Nights-Dream-play-by-Shakespeare',
+'book': 'http://www.gutenberg.org/cache/epub/2242/pg2242-images.html'
+},
+{
+'src' : 'img/214/falstaff.jpg',
+'title': 'Merry Wives of Windsor',
+'id': 42,
+'room': '214',
+'desc': "",
+'links': 'http://www.britannica.com/topic/The-Merry-Wives-of-Windsor',
+'book': 'http://www.gutenberg.org/files/23044/23044-h/23044-h.htm'
+},
+{
+'src' : 'img/215/john_silver.jpg',
+'title': 'Treasure Island, John Silver',
+'id': 43,
+'room': '215',
+'desc': "",
+'links': 'http://www.britannica.com/topic/Treasure-Island',
+'book': 'https://www.gutenberg.org/files/120/120-h/120-h.htm'
+},
+{
+'src' : 'img/215/blessed_damozel.jpg',
+'title': 'Rossetti, Blessed Damozel',
+'id': 44,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/oliver.jpg',
+'title': 'Dickens, Oliver Twist Asking for More',
+'id': 45,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/vanity_fair.jpg',
+'title': 'Vanity Fair',
+'id': 46,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/alice_in_wonderland.jpg',
+'title': 'Alice in Wonderland',
+'id': 100,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/tam_oshanter.jpg',
+'title': 'Burns, Tam o\'Shanter',
+'id': 47,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/ivanhoe.jpg',
+'title': 'Scott, Ivanhoe, Rowena crowning Ivanhoe',
+'id': 48,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/gullivers_travels.jpg',
+'title': 'Swift, Gulliver\'s Travels',
+'id': 49,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/ancient_mariner.jpg',
+'title': 'Coleridge, Rhyme of the Ancient Mariner',
+'id': 50,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/robinson_crusoe.jpg',
+'title': 'DeFoe, Robinson Crusoe',
+'id': 51,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/pilgrims_progress.jpg',
+'title': 'Bunyan, Pilgrim\'s Progress',
+'id': 52,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/round_table.jpg',
+'title': 'King Arthur and the Knights of the Round Table',
+'id': 53,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/everyman.jpg',
+'title': 'Everyman',
+'id': 54,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/paradise_lost.jpg',
+'title': 'Milton, Paradise Lost',
+'id': 55,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/fairie_queene.jpg',
+'title': 'Spenser, Fairie Queene',
+'id': 56,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/amadis_de_gaula.jpg',
+'title': 'Amadis de Gaula',
+'id': 57,
+'room': '215',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/218/the_pathfinder.jpg',
+'title': 'The Pathfinder',
+'id': 58,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/218/lionel_lincoln.jpg',
+'title': 'Lionel Lincoln',
+'id': 59,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/218/homeward_bound.jpg',
+'title': 'Homeward Bound',
+'id': 60,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/218/mohicans.jpg',
+'title': 'Last of the Mohicans',
+'id': 61,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/218/the_pioneers.jpg',
+'title': 'The Pioneers',
+'id': 62,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/218/the_prarie.jpg',
+'title': 'The Prarie',
+'id': 63,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/218/the_deerslayer.jpg',
+'title': 'The Deerslayer',
+'id': 64,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/.jpg',
+'title': '',
+'id': 65,
+'room': '218',
 'desc': "",
 'links': '',
 'book': ''
@@ -271,23 +775,24 @@ $scope.rooms = [
     { title: '213', oldRoom: 'Special Collection', currentRoom: 'East Asian Collection Curator\'s Office', id: 213 },
     { title: '214', oldRoom: 'English Seminar', currentRoom: '', id: 214 },
     { title: '215', oldRoom: 'English Study', currentRoom: 'History Reading Room', id: 215 },
-    { title: '216', oldRoom: 'Closet to Room 215', currentRoom: 'Closet to Room 215', id: 216 }
+    { title: '218', oldRoom: 'Cooper Collection', currentRoom: '', id: 218 },
+    { title: '219', oldRoom: 'Yale Collection of American Literature', currentRoom: '', id: 219 },
+    { title: '221', oldRoom: 'Fielding Collection', currentRoom: '', id: 221 },
+    { title: '222', oldRoom: 'English Seminar Room', currentRoom: '', id: 222 },
+    { title: '223', oldRoom: 'Germanic Seminar', currentRoom: '', id: 223 },
+    { title: '224', oldRoom: 'Speck Collection', currentRoom: '', id: 224 },
+    { title: '228', oldRoom: 'Drama Collection', currentRoom: '', id: 228 },
+    { title: '229', oldRoom: 'Classics Seminar', currentRoom: '', id: 229 },
+    { title: '230', oldRoom: 'Classics Study', currentRoom: '', id: 230 },
+    { title: '232', oldRoom: 'Special Collection', currentRoom: 'Benjamin Franklin Collection', id: 232 }
   ];
 
-
-  //  $scope.loadImages = function() {
-  //   for (var i=0; i<100; i++) {
-  //     $scope.images.push({id:i, src:"http://placehold.it/250x250"});
-  //   }
-  // }
 
   var windowId = $stateParams.windowId;
   
   $scope.window = $scope.images[windowId - 1];
 
   var roomId = $stateParams.roomId;
-  
-  // $scope.room = $scope.rooms[id === roomId];
 
 
 }]);
