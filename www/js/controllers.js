@@ -248,7 +248,7 @@ angular.module('sml.controllers', [])
 'title': 'Tristan and Iseult',
 'id': 22,
 'room': '213',
-'desc': "Tristan and Iseult can be thought of as a kind of medieval-Celtic \"Romeo and Juliet\"; a young man, Tristan, journeys to Ireland to ask if the princess Iseult will marry his uncle King Mark of Cornwall. On the way, Tristan drinks a love potion intended for Iseult and King Mark, and the young man and the princess fall deeply in love. King Mark, in his anger, attempts to trap the lovers into being convicted of crimes; he succeeds, although Tristan and Iseult escape to a forest. Mark, however, finds them, and Tristan decides to hand Iseult over to the king and leave the country. In Brittany, he marries another girl named Iseult, whom he does not love. Later, upon being poisoned in battle, Tristan calls for the Iseult he loves to heal him - if she agrees to come to his aid, her ship will have a white sail; if not, it will be black. Tristan's wife Iseult, who is jealous of her husband's true love, tells the dying man that the ship has a black sail. Princess Iseult, upon arrival, sees that she has arrived too late to save her true love, and she dies next to him.",
+'desc': "Tristan and Iseult can be thought of as a kind of medieval-Celtic \"Romeo and Juliet\"; a young man, Tristan, journeys to Ireland to ask if the princess Iseult will marry his uncle King Mark of Cornwall. On the way, Tristan drinks a love potion intended for Iseult and King Mark, and the young man and the princess fall deeply in love. King Mark, in his anger, attempts to trap the lovers into being convicted of crimes; he succeeds, although Tristan and Iseult escape to a forest. Mark, however, finds them, and Tristan decides to hand Iseult over to the king and leave the country. In Brittany, he marries another girl named Iseult, whom he does not love. Later, upon being poisoned in battle, Tristan calls for the Iseult he truly loves to heal him - if she agrees to come to his aid, her ship will have a white sail; if not, it will be black. Tristan's wife Iseult, who is jealous of her husband's true love, tells the dying man that the ship has a black sail. Princess Iseult, upon arrival, sees that she has arrived too late to save her true love, and she dies next to him.",
 'links': 'http://www.britannica.com/biography/Tristan-and-Isolde',
 'book': 'http://www.gutenberg.org/files/14244/14244-h/14244-h.htm'
 },
@@ -307,7 +307,7 @@ angular.module('sml.controllers', [])
 'book': ''
 },
 {
-'src' : 'img/213A/_.jpg',
+'src' : 'img/213A/speculum1.jpg',
 'title': 'Humanae 1',
 'id': 29,
 'room': '213A',
@@ -316,7 +316,7 @@ angular.module('sml.controllers', [])
 'book': ''
 },
 {
-'src' : 'img/213A/_.jpg',
+'src' : 'img/213A/speculum2.jpg',
 'title': 'Humanae 2',
 'id': 30,
 'room': '213A',
@@ -325,7 +325,7 @@ angular.module('sml.controllers', [])
 'book': ''
 },
 {
-'src' : 'img/213A/_.jpg',
+'src' : 'img/213A/speculum3.jpg',
 'title': 'Humanae 3',
 'id': 31,
 'room': '213A',
@@ -334,7 +334,7 @@ angular.module('sml.controllers', [])
 'book': ''
 },
 {
-'src' : 'img/213A/_.jpg',
+'src' : 'img/213A/speculum4.jpg',
 'title': 'Humanae 4',
 'id': 32,
 'room': '213A',
@@ -343,7 +343,7 @@ angular.module('sml.controllers', [])
 'book': ''
 },
 {
-'src' : 'img/213A/_.jpg',
+'src' : 'img/213A/speculum5.jpg',
 'title': 'Humanae 5',
 'id': 33,
 'room': '213A',
@@ -352,7 +352,7 @@ angular.module('sml.controllers', [])
 'book': ''
 },
 {
-'src' : 'img/213A/_.jpg',
+'src' : 'img/213A/speculum6.jpg',
 'title': 'Humanae 6',
 'id': 34,
 'room': '213A',
@@ -361,7 +361,7 @@ angular.module('sml.controllers', [])
 'book': ''
 },
 {
-'src' : 'img/213A/_.jpg',
+'src' : 'img/213A/speculum7.jpg',
 'title': 'Humanae 7',
 'id': 35,
 'room': '213A',
@@ -370,10 +370,10 @@ angular.module('sml.controllers', [])
 'book': ''
 },
 {
-'src' : 'img/213A/_.jpg',
+'src' : 'img/213A/speculum8.jpg',
 'title': 'Humanae 8',
 'id': 36,
-'room': '214',
+'room': '213A',
 'desc': "",
 'links': '',
 'book': ''
@@ -419,7 +419,7 @@ angular.module('sml.controllers', [])
 'title': 'Midsummer Night\'s Dream',
 'id': 41,
 'room': '214',
-'desc': "Helena is a primary character in one of Shakespeare's most popular comedies, \"A Midsummer Night's Dream.\" Helena truly loves her fiance Demetrius, but finds herself rejected as Demetrius consistently pursues Hermia. Hermia, in turn, is in love with ____.",
+'desc': "Helena is one of the four young lovers in one of Shakespeare's most popular comedies, \"A Midsummer Night's Dream.\" Helena truly loves her fiance Demetrius, but finds herself rejected as Demetrius consistently pursues Hermia. Hermia, in turn, is in love with Lysander. A variety of fairies and elves complicate the situation by accidentally giving Lysander a love potion intended for Demetrius, both young men fall pursue Helena; Helena, shocked by this sudden development, believes that she is being mocked by both men. Ultimately, the forest creatures ensure a happy ending by using the love potion correctly on the sleeping young couples.",
 'links': 'http://www.britannica.com/topic/A-Midsummer-Nights-Dream-play-by-Shakespeare',
 'book': 'http://www.gutenberg.org/cache/epub/2242/pg2242-images.html'
 },
@@ -428,7 +428,7 @@ angular.module('sml.controllers', [])
 'title': 'Merry Wives of Windsor',
 'id': 42,
 'room': '214',
-'desc': "",
+'desc': "This comedy recounts the tricks of two married women - Mistress Page and Mistress Ford - as they toy with both their husbands' emotions and the advances of the fat knight Falstaff. This window is from Act III, Scene III, in which Falstaff hides in a stinky laundry basket to hide from Mistress Ford's husband, Ford, much to the amusement of the two wives. Falstaff is then promptly dumped into the river Thames by servants.",
 'links': 'http://www.britannica.com/topic/The-Merry-Wives-of-Windsor',
 'book': 'http://www.gutenberg.org/files/23044/23044-h/23044-h.htm'
 },
@@ -437,7 +437,7 @@ angular.module('sml.controllers', [])
 'title': 'Treasure Island, John Silver',
 'id': 43,
 'room': '215',
-'desc': "",
+'desc': "Long John Silver is one of the central characters in Robert Louis Stevenson's \"Treasure Island,\" a story about pirates hunting for treasure. While the pirate serves as a father figure to the book's narrator, Jim Hawkins, his villanous deeds and leadership of the mutiny to overthrow Captain Flint become apparent as the story unfolds.",
 'links': 'http://www.britannica.com/topic/Treasure-Island',
 'book': 'https://www.gutenberg.org/files/120/120-h/120-h.htm'
 },
@@ -446,72 +446,63 @@ angular.module('sml.controllers', [])
 'title': 'Rossetti, Blessed Damozel',
 'id': 44,
 'room': '215',
-'desc': "",
-'links': '',
-'book': ''
+'desc': "Dante Gabriel Rossetti was an English poet and painter who was a founding figure of the Pre-Raphaelite Brotherhood. His poem \"The Blessed Damozel\" was published in 1850 and is perhaps his best known work; inspired in part by Poe's \"The Raven,\" the poem describes a damozel, or damsel, looking down upon her lover from Heaven and hoping for their reunion in the afterlife. The scene in the window is a copy of Rossetti's painting of the same name, finished about twenty years after the poem.",
+'links': 'http://www.britannica.com/biography/Dante-Gabriel-Rossetti',
+'book': 'http://www.bartleby.com/246/719.html'
 },
 {
 'src' : 'img/215/oliver.jpg',
 'title': 'Dickens, Oliver Twist Asking for More',
 'id': 45,
 'room': '215',
-'desc': "",
-'links': '',
-'book': ''
+'desc': "Charles Dickens' famous satire of English society recounts the adventures of the orphan Oliver Twist. This scene, from the beginning of the story, depicts Oliver asking the greedy parish official Mr. Bumble for more gruel (\"Please, sir, I want some more\")- an action which results in his getting thrown out of the workhouse. After this encounter, Oliver Twist learns the rules of the street from a group of pickpockets who include famous characters like the Artful Dodger and Fagin.",
+'links': 'http://www.britannica.com/topic/Oliver-Twist-novel-by-Dickens',
+'book': 'http://www.gutenberg.org/files/730/730-h/730-h.htm'
 },
 {
 'src' : 'img/215/vanity_fair.jpg',
 'title': 'Vanity Fair',
 'id': 46,
 'room': '215',
-'desc': "",
-'links': '',
-'book': ''
-},
-{
-'src' : 'img/215/alice_in_wonderland.jpg',
-'title': 'Alice in Wonderland',
-'id': 100,
-'room': '215',
-'desc': "",
-'links': '',
-'book': ''
+'desc': "William Makepeace Thankeray's novel Vanity Fair deals mainly with the interwoven fortunes of two women, the wellborn, passive Amelia Sedley and the ambitious, essentially amoral Becky Sharp, the latter perhaps the most memorable character Thackeray created.* In this scene, from Chapter I, Becky is leaving the school for girls run by Miss Pinkerton and heading to Vanity Fair, a world of social climbing and marriages. Becky bids good riddance to the school by throwing a dictionary out of the carriage window: \"But, lo! and just as the coach drove off, Miss Sharp put her pale face out of the window and actually flung the book back into the garden\".",
+'links': 'http://www.britannica.com/topic/Vanity-Fair',
+'book': 'http://www.bartleby.com/305/1009.html'
 },
 {
 'src' : 'img/215/tam_oshanter.jpg',
 'title': 'Burns, Tam o\'Shanter',
 'id': 47,
 'room': '215',
-'desc': "",
-'links': '',
-'book': ''
+'desc': "Tam o' Shanter is a wonderful, epic poem in which Robert Burns paints a vivid picture of the drinking classes in the old Scotch town of Ayr in the late 18th century. It is populated by several unforgettable characters, including  Tam himself, his friend Souter Johnnie and his own long-suffering wife Kate, \"Gathering her brows like gathering storm, nursing her wrath to keep it warm\". We are also introduced to Kirkton Jean, the ghostly, \"winsome wench\", Cutty Sark and his gallant horse, Maggie.* The Tam o'Shanter cap, a Scottish hat, is named after the poem.",
+'links': 'http://www.robertburns.org.uk/Assets/Poems_Songs/tamoshanter.htm',
+'book': 'http://www.robertburns.org.uk/Assets/Poems_Songs/tamoshanter.htm'
 },
 {
 'src' : 'img/215/ivanhoe.jpg',
 'title': 'Scott, Ivanhoe, Rowena crowning Ivanhoe',
 'id': 48,
 'room': '215',
-'desc': "",
-'links': '',
-'book': ''
+'desc': "Ivanhoe, a chivalrous knight, returns to England after having fought in the Crusades. Disinherited by his father, Cedric, for falling in love with Rowena, who was betrothed to another, Ivanhoe travels in disguise, wins a knightly tournament, and accepts the prize from Rowena. In the end, Ivanhoe and Rowena are united, and they leave England for Spain.*",
+'links': 'http://www.britannica.com/topic/Ivanhoe-novel-by-Scott',
+'book': 'http://www.gutenberg.org/files/82/82-h/82-h.htm'
 },
 {
 'src' : 'img/215/gullivers_travels.jpg',
 'title': 'Swift, Gulliver\'s Travels',
 'id': 49,
 'room': '215',
-'desc': "",
-'links': '',
-'book': ''
+'desc': "adventures to four lands. Chapter 5 stealing the fleet glasses protect his eyes",
+'links': 'http://www.magnoliabox.com/art/370824/gulliver-stealing-the-blefuscudian-fleet-illustration-from',
+'book': 'http://www.gutenberg.org/files/829/829-h/829-h.htm'
 },
 {
 'src' : 'img/215/ancient_mariner.jpg',
-'title': 'Coleridge, Rhyme of the Ancient Mariner',
+'title': 'Coleridge, Rime of the Ancient Mariner',
 'id': 50,
 'room': '215',
-'desc': "",
-'links': '',
-'book': ''
+'desc': "On an icebound ship near the South Pole, the mariner and his crew are visited by an albatross, considered a sign of good luck. The ship breaks free of the ice and sails north, followed by the giant bird. Then, inexplicably, the mariner shoots and kills it, bringing a curse upon the vessel. After some confusion, his shipmates vilify him and hang the bird carcass around his neck. The passing of a ghost ship (a bad omen) presages the deaths of all aboard ship except the narrator.* \"Water, water, everywhere,/Nor any drop to drink\".",
+'links': 'http://www.britannica.com/topic/The-Rime-of-the-Ancient-Mariner',
+'book': 'http://www.poetryfoundation.org/poem/173253'
 },
 {
 'src' : 'img/215/robinson_crusoe.jpg',
@@ -583,7 +574,7 @@ angular.module('sml.controllers', [])
 'room': '218',
 'desc': "",
 'links': '',
-'book': ''
+'book': 'http://www.gutenberg.org/files/1880/1880-h/1880-h.htm'
 },
 {
 'src' : 'img/218/lionel_lincoln.jpg',
@@ -640,133 +631,664 @@ angular.module('sml.controllers', [])
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
+'src' : 'img/219/the_virginian.jpg',
+'title': 'Owen Wister, The Virginian',
 'id': 65,
-'room': '218',
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/silas_lapham.jpg',
+'title': 'Howells, Silas Lapham',
+'id': 66,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/ramona.jpg',
+'title': 'Jackson, Ramona',
+'id': 67,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/bachelor.jpg',
+'title': 'Reveries of a Bachelor',
+'id': 68,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/man_without_a_country.jpg',
+'title': 'Hale, Man without a Country',
+'id': 69,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/huckleberry_finn.jpg',
+'title': 'Clemens, Huckleberry Finn',
+'id': 70,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/innocents_abroad.jpg',
+'title': 'Clemens, Innocents Abroad',
+'id': 71,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/tar_baby.jpg',
+'title': 'Harris, Brer Rabbit and the Tar Baby',
+'id': 72,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/hiawatha.jpg',
+'title': 'Longfellow, Hiawatha',
+'id': 73,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/hester_prynne.jpg',
+'title': 'Hawthorne, Hester Prynne',
+'id': 74,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/autocrat.jpg',
+'title': '(Missing) Hawthorne, Autocrat of the Breakfast Table',
+'id': 75,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/two_years.jpg',
+'title': 'Dana, Two Years before the Mast',
+'id': 76,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/the_raven.jpg',
+'title': 'Poe, The Raven',
+'id': 77,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
 },
 {
-'src' : 'img/219/.jpg',
-'title': '',
-'id': 65,
-'room': '218',
+'src' : 'img/219/roaring_camp.jpg',
+'title': 'Harte, Luck of Roaring Camp',
+'id': 78,
+'room': '219',
 'desc': "",
 'links': '',
 'book': ''
+},
+{
+'src' : 'img/221/heathen_chinese.jpg',
+'title': 'Harte, Heathen Chinee',
+'id': 79,
+'room': '221',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/uncle_tom.jpg',
+'title': 'Stowe, Uncle Tom\'s Cabin',
+'id': 80,
+'room': '219',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/poor_richard.jpg',
+'title': 'Franklin, Poor Richard',
+'id': 81,
+'room': '219',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/ichabod_crane.jpg',
+'title': 'Irving, Ichabod Crane and the Headless Horseman',
+'id': 82,
+'room': '219',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/rip_van_winkle.jpg',
+'title': 'Rip van Winkle',
+'id': 83,
+'room': '219',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/moby_dick.jpg',
+'title': 'Melville, Moby Dick',
+'id': 84,
+'room': '219',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/221/tom_jones_i.jpg',
+'title': 'Fronticepiece, Tom Jones, vol. I.',
+'id': 85,
+'room': '221',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/221/tom_jones_the_wedding.jpg',
+'title': 'The Wedding, Joseph Andrews',
+'id': 86,
+'room': '221',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/219/tom_jones_vi.jpg',
+'title': 'Fronticepiece, Tom Jones, vol. VI.',
+'id': 87,
+'room': '219',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/221/tom_jones_vii.jpg',
+'title': 'Fronticepiece, Tom Jones, vol. VII.',
+'id': 88,
+'room': '221',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/215/alice_in_wonderland.jpg',
+'title': 'Alice in Wonderland',
+'id': 89,
+'room': '215',
+'desc': "Lewis Carroll's \"Alice's Adventures in Wonderland\" (1865) recounts the fantastic adventures of Alice after she chases the White Rabbit down a rabbit hole. This particular scene is not, as many are led to believe, an illustration of the Queen of Hearts; rather, it depicts the Queen of Heart's enemy, the Duchess, with her family. Like most of Carroll's characters, the Duchess has several strange tendencies; even though her kitchen is filled with pepper, she beats her baby whenever he sneezes, and she enjoys placing her rather pointy chin on Alice's shoulder throughout their conversations. This window is a copy of a drawing by John Tenniel, the most famous illustrator of Carroll's series.",
+'links': 'http://www.britannica.com/topic/Alices-Adventures-in-Wonderland',
+'book': 'http://www.gutenberg.org/files/11/11-h/11-h.htm'
+},
+{
+'src' : 'img/222/prologue.jpg',
+'title': 'The Prologue',
+'id': 90,
+'room': '222',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/222/chaucer.jpg',
+'title': 'Chaucer',
+'id': 91,
+'room': '222',
+'desc': "",
+'links': 'http://www.britannica.com/biography/Geoffrey-Chaucer',
+'book': ''
+},
+{
+'src' : 'img/222/prioress.jpg',
+'title': 'Prioress',
+'id': 92,
+'room': '222',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/222/cook.jpg',
+'title': 'Cook',
+'id': 93,
+'room': '222',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/222/monk.jpg',
+'title': 'Monk',
+'id': 94,
+'room': '222',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/222/friar.jpg',
+'title': 'Friar',
+'id': 95,
+'room': '222',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/222/merchant.jpg',
+'title': 'Merchant',
+'id': 96,
+'room': '222',
+'desc': "This window depicts the wealthy, greedy, and unhappily married Merchant - interestingly, this depiction omits the Merchant's fashionable forked beard, mentioned explicity in the General Prologue. The Merchant's Tale draws on a story of familiar theme, that of an old man whose young wife is unfaithful. Old Januarie is deceived by his young wife, May, and her lover, Damyan, after Januarie suddenly goes blind. The lovers sneak up to the branches of a pear tree above Januarie’s head and begin to make love. An enraged Pluto instantly restores the old man’s sight, but Proserpina allows May to outwit him by explaining that she was fighting with Damyan in the tree because she had been told that doing so would cause Januarie’s sight to be restored.",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/222/clerk.jpg',
+'title': 'Clerk',
+'id': 97,
+'room': '222',
+'desc': "The Clerk tells a story taken from Boccaccio\'s \"Decameron\" - an appropriate tale from a character who supposedly loves his books more than his food. In the Clerk's Tale, a marquis marries beautiful low-born Griselde (Griselda) after she agrees to obey his every whim; he then subjects her to a series of cruelties to test her love. He abducts their children, telling Griselde they must die. Years later, he asks her to leave, and later calls her back to decorate his chambers, supposedly for his new wife. Griselde amiably agrees, as she has patiently endured all her previous indignities. At last the marquis relents, proclaiming his love for Griselde; instead of a new wife, the young woman who arrives is Griselde’s grown daughter, and both she and her brother are restored to their mother as a reward for her constancy.",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/222/squire.jpg',
+'title': 'Squire',
+'id': 98,
+'room': '222',
+'desc': "The Squire is the young, effeminate son of the Knight with superb singing and dancing skills. The Squire relates an incomplete tale (he is interrupted by the Franklin) of the Tartar king Cambyuskan (Cambuscan), who receives four magical gifts: a brass horse that can fly anywhere safely but at astonishing speed, a sword that can penetrate armour and heal wounds, a mirror that tells of future dangers, and a ring that enables its wearer to understand the speech of birds and to know the medicinal properties of every plant.*",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/222/physician.jpg',
+'title': 'Physician',
+'id': 99,
+'room': '222',
+'desc': "The Physician (as in Physics and Astronomy, not medicine) tells a tale that is related to both a sotry by the Roman historian Livy and one in the 13th-century Roman de la Rose (\"Romance of the Rose\"). It concerns the lust of the evil judge Appius for the beautiful, chaste Virginia. Plotting a strategy by which he can possess her, the judge instructs his servant to swear in court that Virginia is a slave whom her father abducted. Her father, seeing through the plot, kills her to save her honour and delivers her head to Appius. Although Appius gives an order for the father’s execution, the townspeople rise against the judge and throw him in prison, where he kills himself.*",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/222/wife_of_bath.jpg',
+'title': 'Wife of Bath',
+'id': 100,
+'room': '222',
+'desc': "Before the Wife of Bath tells her tale, she offers in a long prologue a condemnation of celibacy and a lusty account of her five marriages. It is for this prologue that her tale is perhaps best known. The tale concerns a knight accused of rape, whose life shall be spared if in one year he discovers what women most desire. He eventually turns to an ugly old witch who promises him the answer that will save his life if he will do the first thing she asks of him. The answer—that it is \"maistrie,\" or sovereignty over men, that women desire—is accepted in court, and the witch then demands that the knight marry her. In bed she asks him if he would wish her ugly yet faithful or beautiful and faithless. He insists the choice must be hers. This concession of her mastery restores her youth and beauty, and they live happily ever after.* ",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/222/miller.jpg',
+'title': 'Miller',
+'id': 101,
+'room': '222',
+'desc': "The drunken, churlish Miller tells a bawdy story of lust and revenge. Alison, the young wife of a carpenter, takes their boarder Nicholas as her lover. When Nicholas convinces the carpenter that Noah’s flood is about to recur, the unwitting husband suspends three tubs from the rafters to serve as lifeboats and uses one for his bed. Alison and Nicholas steal off to her bedroom only to be interrupted the next morning by her admirer Absolon, who stands under the window and begs her for a kiss. Alison offers her backside. Enraged upon discovering the deception, Absolon returns and pleads once more; this time Nicholas assumes the same pose and is rewarded with a scorching branding iron. His cries for water awaken the carpenter, who assumes that the flood is near; he cuts the rope holding his tub and comes crashing through the attic.*",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/223/wunderhorn.jpg',
+'title': 'Des Knaben Wunderhorn',
+'id': 102,
+'room': '223',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/223/flying_chest.jpg',
+'title': 'Anderson\'s Flying Chest',
+'id': 103,
+'room': '223',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/223/erlkonig.jpg',
+'title': 'Erlkonig',
+'id': 104,
+'room': '223',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/223/vogelweide.jpg',
+'title': 'Walter von der Vogelweide',
+'id': 105,
+'room': '223',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/224/faust_and_gretchen.jpg',
+'title': 'Faust and Gretchen',
+'id': 106,
+'room': '224',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/224/mephisto.jpg',
+'title': 'Mephisto',
+'id': 107,
+'room': '224',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/224/gartenhaus.jpg',
+'title': 'Goethe\'s Gartenhaus',
+'id': 108,
+'room': '224',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/224/sorrows_of_werther.jpg',
+'title': 'The Sorrows of Werther',
+'id': 109,
+'room': '224',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/228/tragedy.jpg',
+'title': 'Mask of Tragedy',
+'id': 110,
+'room': '228',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/228/puppet_show.jpg',
+'title': 'Puppet Show',
+'id': 111,
+'room': '228',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/228/comedy.jpg',
+'title': 'Mask of Comedy',
+'id': 112,
+'room': '228',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/229/iphigenia.jpg',
+'title': 'Agamemnon sacrificing Iphigenia',
+'id': 113,
+'room': '229',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/229/argonauts.jpg',
+'title': 'The Argonauts',
+'id': 114,
+'room': '229',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/229/proud_frog.jpg',
+'title': 'The Proud Frog (The Frog and the Ox)',
+'id': 115,
+'room': '229',
+'desc': "\"Oh Father,\" said a little Frog to the big one sitting by the side of a pool, \"I have seen such a terrible monster! It was as big as a mountain, with horns on its head, and a long tail, and it had hoofs divided in two.\"  \"Tush, child, tush,\" said the old Frog, \"that was only Farmer White’s Ox. It isn’t so big either; he may be a little bit taller than I, but I could easily make myself quite as broad; just you see.\" So he blew himself out, and blew himself out, and blew himself out. \"Was he as big as that?\" asked he. \"Oh, much bigger than that,\" said the young Frog. Again the old one blew himself out, and asked the young one if the Ox was as big as that. \"Bigger, father, bigger,\" was the reply. So the Frog took a deep breath, and blew and blew and blew, and swelled and swelled and swelled. And then he said: \"I’m sure the Ox is not as big as—\" But at this moment he burst. \"SELF-CONCEIT MAY LEAD TO SELF-DESTRUCTION.\"",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/229/sphinx.jpg',
+'title': 'Oedipus and the Sphinx',
+'id': 116,
+'room': '229',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/230/trojan_horse.jpg',
+'title': 'The Trojan Horse',
+'id': 117,
+'room': '230',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/230/romulus.jpg',
+'title': 'Romulus and Remus',
+'id': 118,
+'room': '230',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/230/sirens.jpg',
+'title': 'Ulysses and the Sirens',
+'id': 119,
+'room': '230',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/232/town_mouse.jpg',
+'title': 'The town mouse and the country mouse',
+'id': 120,
+'room': '232',
+'desc': "A Town Mouse and a Country Mouse were acquaintances, and the Country Mouse one day invited his friend to come and see him at his home in the fields. The Town Mouse came, and they sat down to a dinner of barleycorns and roots, the latter of which had a distinctly earthy flavour. The fare was not much to the taste of the guest, and presently he broke out with \"My poor dear friend, you live here no better than the ants. Now, you should just see how I fare! My larder is a regular horn of plenty. You must come and stay with me, and I promise you you shall live on the fat of the land.\" So when he returned to town he took the Country Mouse with him, and showed him into a larder containing flour and oatmeal and figs and honey and dates. The Country Mouse had never seen anything like it, and sat down to enjoy the luxuries his friend provided: but before they had well begun, the door of the larder opened and some one came in. The two Mice scampered off and hid themselves in a narrow and exceedingly uncomfortable hole. Presently, when all was quiet, they ventured out again; but some one else came in, and off they scuttled again. This was too much for the visitor. \"Good-bye,\" said he, \"I\'m off. You live in the lap of luxury, I can see, but you are surrounded by dangers; whereas at home I can enjoy my simple dinner of roots and corn in peace.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/peacock.jpg',
+'title': 'The Peacock and the Magpie',
+'id': 121,
+'room': '232',
+'desc': "The birds once met together to choose a king, and among others the Peacock was a candidate. Spreading his showy tail, and stalking up and down with affected grandeur, he caught the eyes of the silly multitude by his brilliant appearance, and was elected with acclamation. Just as they were going to proclaim him, the Magpie stept forth into the midst of the assembly, and thus addressed the new king: \"May it please your majesty elect to permit a humble admirer to propose a question. As our king, we put our lives and fortunes in your hands. If, therefore, the Eagle, the Vulture, and the Kite, our unruly brethren, should in the future, as they have in times past, make a descent upon us, what means would you take for our defence?\" This pithy question opened the eyes of the birds to the weakness of their choice. They cancelled the election, and have ever since regarded the Peacock as a vain pretender, and considered the Magpie to be as good a speaker as any of their number.",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/prometheus.jpg',
+'title': 'Prometheus Bound',
+'id': 122,
+'room': '232',
+'desc': "",
+'links': '',
+'book': ''
+},
+{
+'src' : 'img/232/kid_and_wolf.jpg',
+'title': 'The Kid and the Wolf',
+'id': 123,
+'room': '232',
+'desc': "A kid was perched up on the top of a house, and looking down saw a Wolf passing under him. Immediately he began to revile and attack his enemy. \"Murderer and thief,\" he cried, \"what do you here near honest folks\’ houses? How dare you make an appearance where your vile deeds are known?\" \"Curse away, my young friend,\" said the Wolf. \"IT IS EASY TO BE BRAVE FROM A SAFE DISTANCE.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/grasshopper.jpg',
+'title': 'The Grasshopper and the Ants',
+'id': 124,
+'room': '232',
+'desc': "In a field one summer’s day a Grasshopper was hopping about, chirping and singing to its heart’s content. An Ant passed by, bearing along with great toil an ear of corn he was taking to the nest. \"Why not come and chat with me,\" said the Grasshopper, \"instead of toiling and moiling in that way?\" \"I am helping to lay up food for the winter,\" said the Ant, \"and recommend you to do the same.\" \"Why bother about winter?\" said the Grasshopper; \"we have got plenty of food at present.\" But the Ant went on its way and continued its toil. When the winter came the Grasshopper had no food, and found itself dying of hunger, while it saw the ants distributing every day corn and grain from the stores they had collected in the summer. Then the Grasshopper knew: \"IT IS BEST TO PREPARE FOR THE DAYS OF NECESSITY.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/dog_in_manger.jpg',
+'title': 'The Dog in the Manger',
+'id': 125,
+'room': '232',
+'desc': "A dog looking out for its afternoon nap jumped into the Manger of an Ox and lay there cosily upon the straw. But soon the Ox, returning from its afternoon work, came up to the Manger and wanted to eat some of the straw. The Dog in a rage, being awakened from its slumber, stood up and barked at the Ox, and whenever it came near attempted to bite it. At last the Ox had to give up the hope of getting at the straw, and went away muttering: \"AH, PEOPLE OFTEN GRUDGE OTHERS WHAT THEY CANNOT ENJOY THEMSELVES.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/fox_and_lion.jpg',
+'title': 'The Fox and the Lion',
+'id': 126,
+'room': '232',
+'desc': "When first the Fox saw the Lion he was terribly frightened, and ran away and hid himself in the wood. Next time however he came near the King of Beasts he stopped at a safe distance and watched him pass by. The third time they came near one another the Fox went straight up to the Lion and passed the time of day with him, asking him how his family were, and when he should have the pleasure of seeing him again; then turning his tail, he parted from the Lion without much ceremony. \"FAMILIARITY BREEDS CONTEMPT\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/crow_and_pitcher.jpg',
+'title': 'The Crow and the Pitcher',
+'id': 127,
+'room': '232',
+'desc': "A Crow, half-dead with thirst, came upon a Pitcher which had once been full of water; but when the Crow put its beak into the mouth of the Pitcher he found that only very little water was left in it, and that he could not reach far enough down to get at it. He tried, and he tried, but at last had to give up in despair. Then a thought came to him, and he took a pebble and dropped it into the Pitcher. Then he took another pebble and dropped it into the Pitcher. Then he took another pebble and dropped it into the Pitcher. Then he took another pebble and dropped it into the Pitcher. Then he took another pebble and dropped it into the Pitcher. At last, at last, he saw the water mount up near him, and after casting in a few more pebbles he was able to quench his thirst and save his life. \"LITTLE BY LITTLE DOES THE TRICK.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/stag.jpg',
+'title': 'The Stag looking into the Water',
+'id': 128,
+'room': '232',
+'desc': "A stag saw his shadow reflected in the water, and greatly admired the size of his horns, but felt angry with himself for having such weak feet. While he was thus contemplating himself, a Lion appeared at the pool. The Stag betook himself to flight, and kept himself with ease at a safe distance from the Lion, until he entered a wood and became entangled with his horns. The Lion quickly came up with him and caught him. When too late he thus reproached himself: \"Woe is me! How have I deceived myself! These feet which would have saved me I despised, and I gloried in these antlers which have proved my destruction.\" \"WE OFTEN DESPISE WHAT IS MOST USEFUL TO US.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/wolf_and_crane.jpg',
+'title': 'The Wolf and the Crane',
+'id': 129,
+'room': '232',
+'desc': "A Wolf had been gorging on an animal he had killed, when suddenly a small bone in the meat stuck in his throat and he could not swallow it. He soon felt terrible pain in his throat, and he ran up and down groaning and groaning and seeking for something to relieve the pain. He tried to induce every one he met to remove the bone. \"I would give anything,\" said he, \"if you would take it out.\" At last the Crane agreed to try, and told the Wolf to lie on his side and open his jaws as wide as he could. Then the Crane put its long neck down the Wolf’s throat, and with its beak loosened the bone, till at last got it out. \"Will you kindly give me the reward you promised?\" said the Crane. The Wolf grinned and showed his teeth and said: \"Be content. You have put your head inside a Wolf’s mouth and taken it out again in safety; that ought to be reward enough for you.\" \"GRATITUDE AND GREED GO NOT TOGETHER.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/fighting_cocks.jpg',
+'title': 'The Fighting Cocks',
+'id': 130,
+'room': '232',
+'desc': "Two game cocks were fiercely fighting for the mastery of the farmyard.  One at last put the other to flight.  The vanquished Cock skulked away and hid himself in a quiet corner, while the conqueror, flying up to a high wall, flapped his wings and crowed exultingly with all his might.  An Eagle sailing through the air pounced upon him and carried him off in his talons.  The vanquished Cock immediately came out of his corner, and ruled henceforth with undisputed mastery. \"PRIDE GOES BEFORE DESTRUCTION.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/dog_shadow.jpg',
+'title': 'The Dog and his Shadow',
+'id': 131,
+'room': '232',
+'desc': "It happened that a Dog had got a piece of meat and was carrying it home in his mouth to eat it in peace. Now on his way home he had to cross a plank lying across a running brook. As he crossed, he looked down and saw his own shadow reflected in the water beneath. Thinking it was another dog with another piece of meat, he made up his mind to have that also. So he made a snap at the shadow in the water, but as he opened his mouth the piece of meat fell out, dropped into the water and was never seen more. \"BEWARE LEST YOU LOSE THE SUBSTANCE BY GRASPING AT THE SHADOW.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/fox_and_grapes.jpg',
+'title': 'The Fox and the Grapes',
+'id': 132,
+'room': '232',
+'desc': "One hot summer’s day a Fox was strolling through an orchard till he came to a bunch of Grapes just ripening on a vine which had been trained over a lofty branch. \"Just the things to quench my thirst,\" quoth he. Drawing back a few paces, he took a run and a jump, and just missed the bunch. Turning round again with a One, Two, Three, he jumped up, but with no greater success. Again and again he tried after the tempting morsel, but at last had to give it up, and walked away with his nose in the air, saying: \"I am sure they are sour.\" \"IT IS EASY TO DESPISE WHAT YOU CANNOT GET.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/dog_and_wolf.jpg',
+'title': 'The Dog and the Wolf',
+'id': 133,
+'room': '232',
+'desc': "A gaunt Wolf was almost dead with hunger when he happened to meet a House-dog who was passing by. \"Ah, Cousin,\" said the Dog. \"I knew how it would be; your irregular life will soon be the ruin of you. Why do you not work steadily as I do, and get your food regularly given to you?\" \"I would have no objection,\" said the Wolf, \"if I could only get a place.\" \"I will easily arrange that for you,\" said the Dog; \"come with me to my master and you shall share my work.\" So the Wolf and the Dog went towards the town together. On the way there the Wolf noticed that the hair on a certain part of the Dog’s neck was very much worn away, so he asked him how that had come about. \"Oh, it is nothing,\" said the Dog. \"That is only the place where the collar is put on at night to keep me chained up; it chafes a bit, but one soon gets used to it.\" \"Is that all?\" said the Wolf. \"Then good-bye to you, Master Dog.\" \"BETTER STARVE FREE THAN BE A FAT SLAVE.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/lion_and_mouse.jpg',
+'title': 'The Lion and the Mouse',
+'id': 134,
+'room': '232',
+'desc': "Once when a Lion was asleep a little Mouse began running up and down upon him; this soon wakened the Lion, who placed his huge paw upon him, and opened his big jaws to swallow him. \"Pardon, O King,\" cried the little Mouse: \"forgive me this time, I shall never forget it: who knows but what I may be able to do you a turn some of these days?\" The Lion was so tickled at the idea of the Mouse being able to help him, that he lifted up his paw and let him go. Some time after the Lion was caught in a trap, and the hunters, who desired to carry him alive to the King, tied him to a tree while they went in search of a waggon to carry him on. Just then the little Mouse happened to pass by, and seeing the sad plight in which the Lion was, sent up to him and soon gnawed away the ropes that bound the King of the Beasts. \"Was I not right?\" said the little Mouse. \"LITTLE FRIENDS MAY PROVE GREAT FRIENDS.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/old_man_and_death.jpg',
+'title': 'The Old Man and Death',
+'id': 135,
+'room': '232',
+'desc': "An old labourer, bent double with age and toil, was gathering sticks in a forest. At last he grew so tired and hopeless that he threw down the bundle of sticks, and cried out: \"I cannot bear this life any longer. Ah, I wish Death would only come and take me!\" As he spoke, Death, a grisly skeleton, appeared and said to him: \"What wouldst thou, Mortal? I heard thee call me.\" \"Please, sir,\" replied the woodcutter, \"would you kindly help me to lift this bundle of sticks onto my shoulder?\" \"WE WOULD OFTEN BE SORRY IF OUR WISHES WERE GRATIFIED.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/tortoise_and_hare.jpg',
+'title': 'The Tortoise and the Hare',
+'id': 136,
+'room': '232',
+'desc': "The Hare was once boasting of his speed before the other animals. \"I have never yet been beaten,\" said he, \"when I put forth my full speed. I challenge any one here to race with me.\" The Tortoise said quietly, \"I accept your challenge.\" \"That is a good joke,\" said the Hare; \"I could dance round you all the way.\" \"Keep your boasting till you’ve beaten,\" answered the Tortoise. \"Shall we race?\" So a course was fixed and a start was made. The Hare darted almost out of sight at once, but soon stopped and, to show his contempt for the Tortoise, lay down to have a nap. The Tortoise plodded on and plodded on, and when the Hare awoke from his nap, he saw the Tortoise just near the winning-post and could not run up in time to save the race. Then said the Tortoise: \"SLOW AND STEADY WINS THE RACE.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
+},
+{
+'src' : 'img/232/ass_lion.jpg',
+'title': 'The Ass in the Lion\'s Skin',
+'id': 137,
+'room': '232',
+'desc': "An Ass once found a Lion’s skin which the hunters had left out in the sun to dry. He put it on and went towards his native village. All fled at his approach, both men and animals, and he was a proud Ass that day. In his delight he lifted up his voice and brayed, but then every one knew him, and his owner came up and gave him a sound cudgelling for the fright he had caused. And shortly afterwards a Fox came up to him and said: \"Ah, I knew you by your voice.\" \"FINE CLOTHES MAY DISGUISE, BUT SILLY WORDS WILL DISCLOSE A FOOL.\"",
+'links': '',
+'book': 'http://www.gutenberg.org/files/19994/19994-h/19994-h.htm'
 }
 
- ];
+];
 
 $scope.rooms = [
     { title: '207', oldRoom: 'Romance Languages Study', currentRoom: 'Electronic Collections', id: 207 },
